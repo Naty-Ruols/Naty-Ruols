@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Natalia+Cerqueira;I'm+22+years+old;I'm+from+Brazil;I+Graduated+analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
