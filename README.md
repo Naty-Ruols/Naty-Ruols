@@ -18,7 +18,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Naty-Ruols&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naty-Ruols&layout=compact&hide_border=true&title_color=FF1493&text_color=ff91a4&bg_color=0d1117" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/Naty-Ruols">
+</picture>        
 </div>
 
 <div align="center"> 
@@ -37,11 +40,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Naty-Ruols}/count.svg" /></p> 
-<br>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
 
